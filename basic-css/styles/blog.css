@@ -1,0 +1,19 @@
+.header{
+    height: 200px;
+    /* background-image: url('baby.jpg'); */
+    background-image: ;
+
+}
+.blog{
+    background-color: paleturquoise;
+}
+h3{
+    color: magenta
+}
+p{
+    color: blueviolet
+}
+.page-title{
+    font-weight:900;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
